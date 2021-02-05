@@ -2,11 +2,15 @@
 This is an attempt to stay on top of the ever increasing number of papers that combine flexible neural function approximators (aka neural networks) and causality research. I tried to organize the papers into a small number of categories. Some papers are part of multiple categories. If you happen to come across this list and want to add a paper please send me a pull request.
 
 # Approximating SCMs
+Murat Kocaoglu, Christopher Snyder, Alexandros G. Dimakis, Sriram Vishwanath. 2017. **CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training**. https://arxiv.org/abs/1709.02023
+
 Nick Pawlowski, Daniel C. Castro, Ben Glocker. 2020. **Deep Structural Causal Models for Tractable Counterfactual Inference**. https://arxiv.org/abs/2006.06485
 
 Saloni Dash, Amit Sharma. 2020. **Counterfactual Generation and Fairness Evaluation Using Adversarially Learned Inference**. https://arxiv.org/abs/2009.08270
 
 Ilyes Khemakhem, Ricardo Pio Monti, Robert Leech, Aapo Hyvärinen. 2020. **Causal Autoregressive Flows**. https://arxiv.org/abs/2011.02268
+
+Raha Moraffah, Bahman Moraffah, Mansooreh Karami, Adrienne Raglin, Huan Liu. 2020. **Causal Adversarial Network for Learning Conditional and Interventional Distributions**. https://arxiv.org/abs/2008.11376
 
 # Estimating the treatment effect from observational data/unobserved confounding
 Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling. 2017. **Causal Effect Inference with Deep Latent-Variable Models**. https://arxiv.org/abs/1705.08821
